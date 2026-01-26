@@ -24,7 +24,8 @@
   </div
   ##
 ## My Contribution snake
-![Contribution snake example](https://github.com/<renilsongomes>/<renilsongomes>/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/renilsongomes/renilsongomes/blob/output/github-contribution-grid-snake2.svg)
+
 
 
 
