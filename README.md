@@ -1,4 +1,4 @@
-## seja bem vindo ou meu perfil;
+## seja bem vindo ou meu perfil! 
 ## sou o Renilsongomes
 <h3> ### </h3>
 <h3>🐍 Sou estudante de full stack python</h3>
