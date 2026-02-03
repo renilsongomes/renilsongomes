@@ -26,7 +26,7 @@
   <div align="center">MY WORKS :</div>
     <br/>
       <br/>
-  <div style="display: inline_block">
+  <div style="display:flex" style="flex-wrap:wrap">
   <a href="https://lista-de-contatos-rust-xi.vercel.app/"><img alt="lista de contatos" height="250" width="400" src="https://github.com/renilsongomes/renilsongomes/blob/main/.github/workflows/LISTA_DE_CONTATOS.png"/> </a>
   <a href=""><img alt="PAULINA-FITNESS" height="250" width="400" src="https://github.com/renilsongomes/renilsongomes/blob/main/.github/workflows/PAULINA_FITNES.png"/> </a>
   </div>
