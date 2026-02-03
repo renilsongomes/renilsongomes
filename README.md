@@ -32,7 +32,7 @@
   </div>
   <div>
     <H2>PÁGINA EMPRESARIAL</H2>
-  <a href="">
+  <a href="https://paulina-fitnees-2on9.vercel.app/">
     <img alt="PAULINA-FITNESS" height="250" width="400" src="https://github.com/renilsongomes/renilsongomes/blob/main/.github/workflows/PAULINA_FITNES.png"/> </a>
   </div>
 <div style="display:inline">
