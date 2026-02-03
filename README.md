@@ -27,11 +27,16 @@
     <br/>
       <br/>
   <div style="display:flex" style="flex-wrap:wrap">
-  <a href="https://lista-de-contatos-rust-xi.vercel.app/"><img alt="lista de contatos" height="250" width="400" src="https://github.com/renilsongomes/renilsongomes/blob/main/.github/workflows/LISTA_DE_CONTATOS.png"/> </a>
+  <a href="https://lista-de-contatos-rust-xi.vercel.app/"><img alt="lista de contatos" height="250" width="400" 
+  src="https://github.com/renilsongomes/renilsongomes/blob/main/.github/workflows/LISTA_DE_CONTATOS.png"/> </a>
+     </div>
+   <div style="display:flex" style="flex-wrap:wrap">
   <a href=""><img alt="PAULINA-FITNESS" height="250" width="400" src="https://github.com/renilsongomes/renilsongomes/blob/main/.github/workflows/PAULINA_FITNES.png"/> </a>
   </div>
-   <div style="display: inline_block">
+   <div style="display:flex" style="flex-wrap:wrap">
   <a href="https://sistema-de-emprestimo-ex2.vercel.app/"><img alt="sistema de emprestimo" height="250" width="400" src="https://github.com/renilsongomes/renilsongomes/blob/main/.github/workflows/emprestimo.png"/> </a>
+    </div>
+   <div style="display:flex" style="flex-wrap:wrap">  
   <a href="https://site-gamesshop-alpha-dusky.vercel.app/"><img alt="game-shoop" height="300" width="400" src="https://github.com/renilsongomes/renilsongomes/blob/main/.github/workflows/gameshoop.png"/> </a>
   </div>
   
