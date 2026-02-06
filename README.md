@@ -45,6 +45,11 @@
   <a href="https://site-gamesshop-alpha-dusky.vercel.app/">
     <img alt="game-shoop" height="300" width="400" src="https://github.com/renilsongomes/renilsongomes/blob/main/.github/workflows/gameshoop.png"/> </a>
   </div>
+     <div>
+    <H2>GALERIA DE FOTOS</H2>
+  <a href="https://rsgaleria-fotos.vercel.app/">
+    <img alt="galeria de fotos" height="300" width="400" src="https://github.com/renilsongomes/renilsongomes/blob/main/.github/workflows/gameshoop.png"/> </a>
+  </div>
   </div>
 
 
