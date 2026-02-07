@@ -48,7 +48,7 @@
      <div>
     <H2>GALERIA DE FOTOS</H2>
   <a href="https://rsgaleria-fotos.vercel.app/">
-    <img alt="galeria de fotos" height="300" width="400" src="https://github.com/renilsongomes/renilsongomes/blob/main/.github/workflows/gameshoop.png"/> </a>
+    <img alt="galeria de fotos" height="300" width="400" src="https://github.com/renilsongomes/renilsongomes/blob/main/.github/workflows/galeria-de-fotos.png"/> </a>
   </div>
   </div>
 
