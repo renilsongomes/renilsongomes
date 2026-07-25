@@ -25,7 +25,7 @@ Olá! Sou um desenvolvedor Full Stack com foco em Python, apaixonado por criar s
   </picture>
   ---
 </div>
-## 🛠️ Tecnologias que domino
+
 
 <div align="center">
   <!-- Back-end -->
@@ -68,6 +68,26 @@ Olá! Sou um desenvolvedor Full Stack com foco em Python, apaixonado por criar s
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=renilsongomes&theme=dark&ring=ff0000&fire=ff0000&currStreakLabel=ffffff&background=0d1117&hide_border=true" alt="GitHub Streak" />
 </div>
+
+## 📚 Full Stack Python
+
+<div align="center" style="background: #0d1117; padding: 20px; border-radius: 15px; border: 1px solid #ff0000;">
+  
+  <div style="font-size: 50px; line-height: 1.2;">
+    🐍🚀💻
+  </div>
+  
+  <h3 style="color: #ff0000; margin: 10px 0;">36% Concluído</h3>
+  
+  <div style="background: #161b22; border-radius: 50px; height: 30px; width: 100%;">
+    <div style="background: #ff0000; border-radius: 50px; height: 30px; width: 65%; display: flex; align-items: center; justify-content: center;">
+      <span style="color: #fff; font-weight: bold;">⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</span>
+    </div>
+  </div>
+  
+  <p style="color: #8b949e; margin-top: 10px;">
+    ⏳ 21/74 módulos
+  </p>
 
 ---
 
