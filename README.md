@@ -12,8 +12,9 @@ Olá! Sou um desenvolvedor Full Stack com foco em Python, apaixonado por criar s
 - 📚 Sempre estudando e melhorando minhas habilidades
 
 ---
-
-
+<div align="center">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/renilsongomes?cardType=level&theme=dark&preferLogin=false" alt="My Awesome Stats" />
+</div>
 ## 🐍 A Cobrinha dos Commits
 
 <div align="center">
@@ -22,22 +23,8 @@ Olá! Sou um desenvolvedor Full Stack com foco em Python, apaixonado por criar s
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renilsongomes/renilsongomes/output/github-contribution-grid-snake.svg" />
     <img alt="Cobrinha comendo os commits" src="https://raw.githubusercontent.com/renilsongomes/renilsongomes/output/github-contribution-grid-snake-dark.svg" />
   </picture>
+  ---
 </div>
-
----
-
-## 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias | Link |
-|---------|-----------|-------------|------|
-| **Disney+** | Clone da plataforma Disney+ com planos e informações | HTML, CSS, JS | [🔗 Ver projeto](https://disney-plus-new.vercel.app/) |
-| **Aranhaverso** | Landing page sobre o filme "Através do Aranhaverso" | HTML, CSS, JS | [🔗 Ver projeto](https://aranha-verso.vercel.app/) |
-| **Dicas Paulina Fitness** | Site com dicas de fitness e bem-estar | HTML, CSS, JS | [🔗 Ver projeto](https://dicas-paulina-fitness-enpd.vercel.app/) |
-| **Sistema de Empréstimo** | Sistema para gerenciamento de empréstimos | Python, Flask | [🔗 Ver projeto](https://sistema-de-emprestimo-ex2.vercel.app/) |
-| **Lanches do Fred** | Landing page para uma lanchonete fictícia | HTML, CSS, JS | [🔗 Ver projeto](https://lanches-freed.vercel.app/) |
-
----
-
 ## 🛠️ Tecnologias que domino
 
 <div align="center">
@@ -61,6 +48,18 @@ Olá! Sou um desenvolvedor Full Stack com foco em Python, apaixonado por criar s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 </div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias | Link |
+|---------|-----------|-------------|------|
+| **Disney+** | Clone da plataforma Disney+ com planos e informações | HTML, CSS, JS | [🔗 Ver projeto](https://disney-plus-new.vercel.app/) |
+| **Aranhaverso** | Landing page sobre o filme "Através do Aranhaverso" | HTML, CSS, JS | [🔗 Ver projeto](https://aranha-verso.vercel.app/) |
+| **Dicas Paulina Fitness** | Site com dicas de fitness e bem-estar | HTML, CSS, JS | [🔗 Ver projeto](https://dicas-paulina-fitness-enpd.vercel.app/) |
+| **Sistema de Empréstimo** | Sistema para gerenciamento de empréstimos | Python, Flask | [🔗 Ver projeto](https://sistema-de-emprestimo-ex2.vercel.app/) |
+| **Lanches do Fred** | Landing page para uma lanchonete fictícia | HTML, CSS, JS | [🔗 Ver projeto](https://lanches-freed.vercel.app/) |
 
 ---
 
