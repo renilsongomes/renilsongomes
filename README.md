@@ -13,17 +13,6 @@ Olá! Sou um desenvolvedor Full Stack com foco em Python, apaixonado por criar s
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-## 📊 Estatísticas do GitHub
-
-## 📊 Estatísticas do GitHub
-## ⌨️ Programando como um verdadeiro hacker
-
-<div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*HjQJpixjWnTABp0OyJ4r0Q.gif" alt="Hacker programando" width="600" />
-</div>
----
 
 ## 🐍 A Cobrinha dos Commits
 
