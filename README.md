@@ -18,14 +18,11 @@ Olá! Sou um desenvolvedor Full Stack com foco em Python, apaixonado por criar s
 ## 📊 Estatísticas do GitHub
 
 ## 📊 Estatísticas do GitHub
+## ⌨️ Programando como um verdadeiro hacker
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renilsongomes&show_icons=true&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Estatísticas" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renilsongomes&layout=compact&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Linguagens" />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*HjQJpixjWnTABp0OyJ4r0Q.gif" alt="Hacker programando" width="600" />
 </div>
-
-*As estatísticas podem demorar alguns segundos para carregar. Se não aparecerem, o serviço pode estar temporariamente indisponível.*
-
 ---
 
 ## 🐍 A Cobrinha dos Commits
