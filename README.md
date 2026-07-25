@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" margin-left="10px" margin-right="10px">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F70000&center=true&vCenter=true&width=435&lines=Renilson+Gomes;Desenvolvedor+Full+Stack+Python;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </div>
 
