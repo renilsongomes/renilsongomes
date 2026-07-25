@@ -15,9 +15,11 @@ Olá! Sou um desenvolvedor Full Stack com foco em Python, apaixonado por criar s
 
 ## 📊 Estatísticas do GitHub
 
+## 📊 Estatísticas do GitHub
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=renilsongomes&show_icons=true&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renilsongomes&layout=compact&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=renilsongomes&show_icons=true&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renilsongomes&layout=compact&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
 ---
