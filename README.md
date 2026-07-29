@@ -63,12 +63,6 @@ Olá! Sou um desenvolvedor Full Stack com foco em Python, apaixonado por criar s
 
 ---
 
-## 📈 Evolução
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renilsongomes&theme=dark&ring=ff0000&fire=ff0000&currStreakLabel=ffffff&background=0d1117&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 📚 Full Stack Python
 
 <div align="center" style="background: #0d1117; padding: 20px; border-radius: 15px; border: 1px solid #ff0000;">
