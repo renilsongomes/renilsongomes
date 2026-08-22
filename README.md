@@ -71,7 +71,7 @@ Olá! Sou um desenvolvedor Full Stack com foco em Python, apaixonado por criar s
     🐍🚀💻
   </div>
   
-  <h3 style="color: #ff0000; margin: 10px 0;">41% Concluído</h3>
+  <h3 style="color: #ff0000; margin: 10px 0;">46% Concluído</h3>
   
   <div style="background: #161b22; border-radius: 50px; height: 30px; width: 100%;">
     <div style="background: #ff0000; border-radius: 50px; height: 30px; width: 65%; display: flex; align-items: center; justify-content: center;">
