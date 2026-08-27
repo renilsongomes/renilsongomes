@@ -15,7 +15,7 @@ Olá! Sou um desenvolvedor Full Stack com foco em Python, apaixonado por criar s
 <div align="center">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/renilsongomes?cardType=level&theme=dark&preferLogin=false" alt="My Awesome Stats" />
 </div>
-## 🐍 A Cobrinha dos Commits
+🐍 PYTHON NA VEIA 
 
 <div align="center">
   <picture>
@@ -56,9 +56,17 @@ Olá! Sou um desenvolvedor Full Stack com foco em Python, apaixonado por criar s
 | Projeto | Descrição | Tecnologias | Link |
 |---------|-----------|-------------|------|
 | **Disney+** | Clone da plataforma Disney+ com planos e informações | HTML, CSS, JS | [🔗 Ver projeto](https://disney-plus-new.vercel.app/) |
+<br/>
+<br/>
 | **Aranhaverso** | Landing page sobre o filme "Através do Aranhaverso" | HTML, CSS, JS | [🔗 Ver projeto](https://aranha-verso.vercel.app/) |
+<br/>
+<br/>
 | **Dicas Paulina Fitness** | Site com dicas de fitness e bem-estar | HTML, CSS, JS | [🔗 Ver projeto](https://dicas-paulina-fitness-enpd.vercel.app/) |
+<br/>
+<br/>
 | **Sistema de Empréstimo** | Sistema para gerenciamento de empréstimos | Python, Flask | [🔗 Ver projeto](https://sistema-de-emprestimo-ex2.vercel.app/) |
+<br/>
+<br/>
 | **Lanches do Fred** | Landing page para uma lanchonete fictícia | HTML, CSS, JS | [🔗 Ver projeto](https://lanches-freed.vercel.app/) |
 
 ---
@@ -71,7 +79,7 @@ Olá! Sou um desenvolvedor Full Stack com foco em Python, apaixonado por criar s
     🐍🚀💻
   </div>
   
-  <h3 style="color: #ff0000; margin: 10px 0;">46% Concluído</h3>
+  <h3 style="color: #ff0000; margin: 10px 0;">48% Concluído</h3>
   
   <div style="background: #161b22; border-radius: 50px; height: 30px; width: 100%;">
     <div style="background: #ff0000; border-radius: 50px; height: 30px; width: 65%; display: flex; align-items: center; justify-content: center;">
@@ -80,7 +88,7 @@ Olá! Sou um desenvolvedor Full Stack com foco em Python, apaixonado por criar s
   </div>
   
   <p style="color: #8b949e; margin-top: 10px;">
-    ⏳ 27/74 módulos
+    ⏳ 28/74 módulos
     <br>
      ATUALIZADO EM: 29/07/25
   </p>
