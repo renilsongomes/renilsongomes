@@ -72,7 +72,7 @@ Olá! Sou um desenvolvedor Full Stack com foco em Python, apaixonado por criar s
     🐍🚀💻
   </div>
   
-  <h3 style="color: #ff0000; margin: 10px 0;">48% Concluído</h3>
+  <h3 style="color: #ff0000; margin: 10px 0;">50% Concluído</h3>
   
   <div style="background: #161b22; border-radius: 50px; height: 30px; width: 100%;">
     <div style="background: #ff0000; border-radius: 50px; height: 30px; width: 65%; display: flex; align-items: center; justify-content: center;">
@@ -81,9 +81,9 @@ Olá! Sou um desenvolvedor Full Stack com foco em Python, apaixonado por criar s
   </div>
   
   <p style="color: #8b949e; margin-top: 10px;">
-    ⏳ 28/74 módulos
+    ⏳ 29/74 módulos
     <br>
-     ATUALIZADO EM: 29/07/25
+     ATUALIZADO EM: 05/09/26
   </p>
 
 ---
